@@ -1,31 +1,23 @@
-.gradle
-.settings
-/.idea/
-/run/
-/build/
-/eclipse/
-.classpath
-.project
-/bin/
-/config/
-/crash-reports/
-/logs/
-options.txt
-/saves/
-usernamecache.json
-banned-ips.json
-banned-players.json
-eula.txt
-ops.json
-server.properties
-servers.dat
-usercache.json
-whitelist.json
-/out/
+# Gradle
+.gradle/
+build/
+versions/*/build/
+!versions/*/src/main/generated/
+versions/*/src/main/generated/.cache/
+
+# Runs
+run/
+versions/*/run/
+
+# IDE
+.idea/
 *.iml
-*.ipr
-*.iws
-src/main/resources/mixins.*.json
-*.bat
-*.DS_Store
-!gradlew.bat
+.vscode/
+out/
+bin/
+.kotlin/
+
+# old mods
+oldmod/
+oldmod2/
+oldlib/

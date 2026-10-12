@@ -1,164 +1,162 @@
 {
-    "amped": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "amped",
-                "stream": false
-            }
-        ]
-    },
-    "bulletHit": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "bulletHit",
-                "stream": false
-            }
-        ]
-    },
-    "windup": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "windup",
-                "stream": false
-            }
-        ]
-    },
-    "grenade": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "grenade",
-                "stream": false
-            }
-        ]
-    },
-    "machinegun": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "machinegun",
-                "stream": false
-            }
-        ]
-    },
-    "laser": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "laser",
-                "stream": false
-            }
-        ]
-    },
-    "warning": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "warning",
-                "stream": false
-            }
-        ]
-    },
-    "laserHit": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "laserHit",
-              "stream": false
-            }
-        ]
-    },
-    "rocket": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "rocket",
-              "stream": false
-            }
-        ]
-    },
-    "disposable": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "disposable",
-              "stream": false
-            }
-        ]
-    },
-    "potato": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "potato",
-              "stream": false
-            }
-        ]
-    },
-    "incendiary": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "incendiary",
-              "stream": false
-            }
-        ]
-    },
-    "relativistic": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "relativistic",
-              "stream": false
-            }
-        ]
-    },
-    "teleport": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "teleport",
-              "stream": false
-            }
-        ]
-    },
-     "railGun": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "railGun",
-              "stream": false
-            }
-        ]
-    },
-     "railGunHit": {
-        "category": "neutral",
-        "sounds": [
-            {
-               "name": "railGunHit",
-              "stream": false
-            }
-        ]
-    },
-    "turretDeploy": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "turretDeploy",
-                "stream": false
-            }
-        ]
-    },
-    "turretRetract": {
-        "category": "neutral",
-        "sounds": [
-            {
-                "name": "turretRetract",
-                "stream": false
-            }
-        ]
-    }
+  "amped": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:amped",
+        "stream": false
+      }
+    ]
+  },
+  "bullet_hit": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:bullet_hit",
+        "stream": false
+      }
+    ]
+  },
+  "windup": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:windup",
+        "stream": false
+      }
+    ]
+  },
+  "grenade": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:grenade",
+        "stream": false
+      }
+    ]
+  },
+  "machine_gun": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:machine_gun",
+        "stream": false
+      }
+    ]
+  },
+  "laser": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:laser",
+        "stream": false
+      }
+    ]
+  },
+  "warning": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:warning",
+        "stream": false
+      }
+    ]
+  },
+  "laser_hit": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:laser_hit",
+        "stream": false
+      }
+    ]
+  },
+  "rocket": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:rocket",
+        "stream": false
+      }
+    ]
+  },
+  "disposable": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:disposable",
+        "stream": false
+      }
+    ]
+  },
+  "potato": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:potato",
+        "stream": false
+      }
+    ]
+  },
+  "incendiary": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:incendiary",
+        "stream": false
+      }
+    ]
+  },
+  "relativistic": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:relativistic",
+        "stream": false
+      }
+    ]
+  },
+  "teleport": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:teleport",
+        "stream": false
+      }
+    ]
+  },
+  "rail_gun": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:rail_gun",
+        "stream": false
+      }
+    ]
+  },
+  "rail_gun_hit": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:rail_gun_hit",
+        "stream": false
+      }
+    ]
+  },
+  "turret_deploy": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:turret_deploy",
+        "stream": false
+      }
+    ]
+  },
+  "turret_retract": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:turret_retract",
+        "stream": false
+      }
+    ]
+  },
+  "plasma_launch": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:plasma_launch",
+        "stream": false
+      }
+    ]
+  },
+  "arc": {
+    "sounds": [
+      {
+        "name": "openmodularturrets:arc",
+        "stream": false
+      }
+    ]
+  }
 }
